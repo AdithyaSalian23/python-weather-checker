@@ -1,4 +1,4 @@
-# 🌤️ Weather Checker CLI App
+# 🌤️ Weather Checker CLI App (🖥️ CLI = Command Line Interface)
 
 A simple Python command-line app to get real-time weather updates for any city using the OpenWeatherMap API 🌍📡
 
